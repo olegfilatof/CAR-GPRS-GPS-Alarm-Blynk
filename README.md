@@ -7,6 +7,7 @@ Car alarm remote system with wifi local settings and Blynk web interface.
  extra sensors: any, NO contacts in parallel with vibro and IR sensors.
  Power supply: 12-14.5VDC from car accumulator battery.
  Power consumption: 0.1 A/h per day. Don't worry about your battery life!
- 
- 
+  Connect all electronic elements in accordance with drowings and flash 
+  controller. 2 Hours- and you will get 20Euro auto alarm with GPS positioning 
+  and controls. Good Luck!
 
